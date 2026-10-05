@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+students.json
+academic_trajectory.png
+.vscode/
